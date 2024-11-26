@@ -5,7 +5,7 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.springframework.validation.BindingResult;
-import startspring.common.codes.ErrorCode;
+import startspring.honbab.common.codes.ErrorCode;
 
 import java.util.ArrayList;
 import java.util.List;

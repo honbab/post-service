@@ -28,5 +28,6 @@ public class PostServiceImpl implements PostService {
         log.info("Saved post: {}", savedPost.getNickName());
 
         return new ResponseRequestDto(true);
+
     }
 }
